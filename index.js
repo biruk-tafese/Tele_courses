@@ -80,3 +80,5 @@ const concepts = [
          }
         bot.sendMessage(chatId, `Here's a JavaScript concept for you to read about: ${randomConcept.concept}\n\nDefinition: ${randomConcept.definition} \n\n\n Read More: ${randomConcept.link}`);
       })
+
+
